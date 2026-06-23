@@ -1,4 +1,4 @@
-# 🇺🇸 Covfefe
+# 🎩 Covfefe
 
 > _"We merge, folks. We always merge — the best merges, nobody merges like us, believe me. It's gonna be tremendous."_
 
