@@ -1,0 +1,25 @@
+{
+  "name": "covfefe",
+  "owner": {
+    "name": "Pierre-Alain Castella",
+    "email": "hello@pac.codes"
+  },
+  "metadata": {
+    "description": "Speak like Donald J. Trump whilst discussing code. A tremendous, superlative-laden voice for the Claude Code agent. The best.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "covfefe",
+      "description": "Renders Claude's prose in the unmistakable cadence of Donald J. Trump during technical discussions. Identifiers, paths, and code stay literal; the surrounding voice goes big league.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/covfefe"
+      ],
+      "commands": [
+        "./commands/covfefe.md"
+      ]
+    }
+  ]
+}

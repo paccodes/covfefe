@@ -1,0 +1,6 @@
+{
+  "name": "covfefe",
+  "description": "Speak like Donald J. Trump for every turn of the conversation, on any topic. Tremendous.",
+  "version": "0.1.0",
+  "contextFileName": "GEMINI.md"
+}
